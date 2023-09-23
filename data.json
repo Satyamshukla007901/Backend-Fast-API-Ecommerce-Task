@@ -1,0 +1,103 @@
+[
+    {
+      "name": "TV",
+      "price": 999.99,
+      "quantity": 10
+    },
+    {
+      "name": "Laptop",
+      "price": 1299.99,
+      "quantity": 5
+    },
+    {
+      "name": "Phone",
+      "price": 699.99,
+      "quantity": 20
+    },
+    {
+      "name": "Refrigerators",
+      "price": 2999.99,
+      "quantity": 15
+    },
+    {
+      "name": "Washing machines",
+      "price": 1099.99,
+      "quantity": 25
+    },
+    {
+      "name": "Air Conditioners",
+      "price": 3699.99,
+      "quantity": 27
+    },
+    {
+      "name": "Microwaves",
+      "price": 5999.99,
+      "quantity": 1
+    },
+    {
+      "name": "Shirts",
+      "price": 299.99,
+      "quantity": 55
+    },
+    {
+      "name": "T-Shirts",
+      "price": 459.99,
+      "quantity": 27
+    },
+    {
+      "name": "Jeans",
+      "price": 399.99,
+      "quantity": 10
+    },
+    {
+      "name": "Shoes",
+      "price": 1399.99,
+      "quantity": 5
+    },
+    {
+      "name": "Backpack",
+      "price": 899.99,
+      "quantity": 20
+    },
+    {
+      "name": "Smartwatches",
+      "price": 1999.99,
+      "quantity": 10
+    },
+    {
+      "name": "Tablets",
+      "price": 4299.99,
+      "quantity": 5
+    },
+    {
+      "name": "Sunglasses",
+      "price": 299.99,
+      "quantity": 20
+    },
+    {
+      "name": "Jewellery",
+      "price": 9999.99,
+      "quantity": 10
+    },
+    {
+      "name": "Watches",
+      "price": 1799.99,
+      "quantity": 5
+    },
+    {
+      "name": "Toys",
+      "price": 499.99,
+      "quantity": 20
+    },
+    {
+      "name": "Fan",
+      "price": 959.99,
+      "quantity": 10
+    },
+    {
+      "name": "Charger",
+      "price": 299.99,
+      "quantity": 5
+    }
+  ]
+  
